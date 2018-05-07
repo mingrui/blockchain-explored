@@ -3,7 +3,9 @@ Everything I know about blockchain and cryptocurrency
 
 ## Current Hot Topics
 ### Bitcoin Lightning Network Debate
-https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+| Links | Notes |
+| ----- | ----- |
+| https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800 | Math proof? |
 
 ## Cool Lists
 https://github.com/tombusby/cypherpunk-research

@@ -15,7 +15,7 @@ Everything I know about blockchain and cryptocurrency
 ## People
 
 | Name        | Known for           | Interview Count  |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------| -----:|
 |Adam B. Levine|	Let’s Talk Bitcoin Podcast	|1|
 |Laura Shin|	Unchained Podcast	|1|
 |Eugen Rochko|	Mastodon	|1|

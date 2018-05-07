@@ -1,6 +1,11 @@
 # blockchain list
 Everything I know about blockchain and cryptocurrency
 
+## Cool Lists:
+https://github.com/tombusby/cypherpunk-research
+
+## People
+
 | Name        | Known for           | Interview Count  |
 | ------------- |:-------------:| -----:|
 |Adam B. Levine|	Let’s Talk Bitcoin Podcast	|1|

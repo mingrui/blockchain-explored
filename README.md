@@ -1,7 +1,7 @@
-# blockchain list
+# Blockchain List
 Everything I know about blockchain and cryptocurrency
 
-## Cool Lists:
+## Cool Lists
 https://github.com/tombusby/cypherpunk-research
 
 ## People

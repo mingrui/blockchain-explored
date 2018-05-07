@@ -7,8 +7,10 @@ Everything I know about blockchain and cryptocurrency
 | ----- | ----- |
 | https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800 | Math proof? |
 
-## Cool Lists
-https://github.com/tombusby/cypherpunk-research
+## Research
+| Title | Notes |
+| ----- | ----- |
+|[Bitcoin Scaling Paper](https://drive.google.com/file/d/1mXGpWiSuEwJmbBVVYzPGHfujdkAAClz_/view)| 
 
 ## People
 
@@ -44,3 +46,7 @@ https://github.com/tombusby/cypherpunk-research
 |Peter Ullrich|	Explain Blockchain	|1|
 |Daniel Van Flymen|	http://www.dvf.nyc/	|1|
 
+## Cool Lists
+https://github.com/tombusby/cypherpunk-research
+
+https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit#

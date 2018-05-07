@@ -1,6 +1,10 @@
 # Blockchain List
 Everything I know about blockchain and cryptocurrency
 
+## Current Hot Topics
+### Bitcoin Lightning Network Debate
+https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800
+
 ## Cool Lists
 https://github.com/tombusby/cypherpunk-research
 
@@ -37,3 +41,4 @@ https://github.com/tombusby/cypherpunk-research
 |Jackson Palmer|	Dogecoin	|1|
 |Peter Ullrich|	Explain Blockchain	|1|
 |Daniel Van Flymen|	http://www.dvf.nyc/	|1|
+

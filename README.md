@@ -1,7 +1,7 @@
 # Blockchain List
 Everything we know about blockchain and cryptocurrency
 
-Made by [mingrui]((https://github.com/mingrui)) and [yurenji](https://github.com/yurenji)
+Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yurenji)
 
 ## Current Hot Topics
 ### Bitcoin Lightning Network Debate

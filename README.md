@@ -1,7 +1,7 @@
 # Blockchain List
 Everything we know about blockchain and cryptocurrency
 
-Made by https://github.com/yurenji & me
+Made by [mingrui]((https://github.com/mingrui)) and [yurenji](https://github.com/yurenji)
 
 ## Current Hot Topics
 ### Bitcoin Lightning Network Debate
@@ -52,3 +52,21 @@ Made by https://github.com/yurenji & me
 https://github.com/tombusby/cypherpunk-research
 
 https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit#
+
+
+# Chinese resources 
+
+## People
+
+| Name        | Known for           | Comment  |
+| ------------- |:-------------| ----------------: |
+|[maxdeath](https://www.zhihu.com/people/maxdeath)|	[比特币系列文章](https://zhuanlan.zhihu.com/p/27433645)	|TU Delft |
+|[江宏](https://www.zhihu.com/people/lazyseq)|	[分布式共识与去中心化](https://zhuanlan.zhihu.com/p/34290848)	|Yale CS PHD, 分布式系统专业, 对区块链提出理性质疑| 
+
+## Scaling 
+
+
+| 项目        | 简介          | 作者  |  资料 |
+| ------------- |:------------- | :----- |:----- |
+|Algorand|大量节点中随机选取少量节点 + PBFT| MIT Prof. Micali(图灵奖得主) | [知乎讨论](https://www.zhihu.com/question/59648250/answer/182742776)|
+|Ouroboros| TBD |Cardano的共识算法 | [知乎文章](https://zhuanlan.zhihu.com/p/33824015)| 

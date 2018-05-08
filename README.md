@@ -1,5 +1,6 @@
 # Blockchain List
-Everything I know about blockchain and cryptocurrency
+Everything we know about blockchain and cryptocurrency
+Made by https://github.com/yurenji & me
 
 ## Current Hot Topics
 ### Bitcoin Lightning Network Debate

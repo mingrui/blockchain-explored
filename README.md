@@ -54,9 +54,13 @@ Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/y
 |Daniel Van Flymen|	http://www.dvf.nyc/	|1|
 
 ## Cool Lists
-https://github.com/tombusby/cypherpunk-research
+| Title | URL |
+| ----- | ----- |
+| Cypherpunk | https://github.com/tombusby/cypherpunk-research |
+| Rootstack Scaling Research | https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit# |
+| OnchainFX is Better Than CoinMarketCap | https://onchainfx.com/ |
+| Creator of Dogecoin's new project | https://arewedecentralizedyet.com/ |
 
-https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit#
 
 
 # Chinese resources 

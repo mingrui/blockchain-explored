@@ -9,6 +9,11 @@ Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/y
 | ----- | ----- |
 | https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800 | Math proof? |
 
+### Consensus debate 
+| Links | Notes |
+| ----- | ----- |
+| [Peer Review of Cardano's Ouroboros](https://steemit.com/cardamon/@dan/peer-review-of-cardano-s-ouroboros)| Dan Larimer peer review Ouroboros |
+
 ## Research
 | Title | Notes |
 | ----- | ----- |

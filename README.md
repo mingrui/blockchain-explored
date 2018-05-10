@@ -15,10 +15,10 @@ Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/y
 | [Peer Review of Cardano's Ouroboros](https://steemit.com/cardamon/@dan/peer-review-of-cardano-s-ouroboros)| Dan Larimer peer review Ouroboros |
 
 ## Research
-| Title | Notes | Authors |
-| ----- | ----- | ----- |
-|[Bitcoin Scaling Paper](https://drive.google.com/file/d/1mXGpWiSuEwJmbBVVYzPGHfujdkAAClz_/view)| | |
-|[Algorand](https://arxiv.org/pdf/1607.01341.pdf)| | Jing Chen, Silvio Micali |
+| Title | Notes |
+| ----- | ----- |
+|[Bitcoin Scaling Paper](https://drive.google.com/file/d/1mXGpWiSuEwJmbBVVYzPGHfujdkAAClz_/view)| Sets the tone for scaling debate |
+|[Algorand](https://arxiv.org/pdf/1607.01341.pdf)| Very interesting random PoW process |
 
 
 

@@ -20,7 +20,10 @@ Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/y
 |[Bitcoin Scaling Paper](https://drive.google.com/file/d/1mXGpWiSuEwJmbBVVYzPGHfujdkAAClz_/view)| Sets the tone for scaling debate |
 |[Algorand](https://arxiv.org/pdf/1607.01341.pdf)| Very interesting random PoW process |
 
-
+## Projects
+|Name| Link |Notes|
+|-|-|-|
+|dat|https://datproject.org/| Distributed data system |
 
 ## People
 
@@ -56,7 +59,7 @@ Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/y
 |Peter Ullrich|	Explain Blockchain	|1|
 |Daniel Van Flymen|	http://www.dvf.nyc/	|1|
 
-## Cool Lists
+## Cool Links
 | Title | URL |
 | ----- | ----- |
 | Cypherpunk | https://github.com/tombusby/cypherpunk-research |

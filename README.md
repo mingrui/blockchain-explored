@@ -21,9 +21,9 @@ Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/y
 |[Algorand](https://arxiv.org/pdf/1607.01341.pdf)| Very interesting random PoW process |
 
 ## Projects
-|Name| Link |Notes|
+|Name| About | Link |
 |-|-|-|
-|dat|https://datproject.org/| Distributed data system |
+|dat| Distributed data system | https://datproject.org/ |
 
 ## People
 

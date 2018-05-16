@@ -58,6 +58,7 @@ Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/y
 |Jackson Palmer|	Dogecoin	|1|
 |Peter Ullrich|	Explain Blockchain	|1|
 |Daniel Van Flymen|	http://www.dvf.nyc/	|1|
+|Aya Miyaguchi|Head of Ethereum Foundation 2018|[Unchained](http://unchained.forbes.libsynpro.com/aya-miyaguchi-of-the-ethereum-foundation-on-who-makes-the-final-call-ep59) [Twitter](https://twitter.com/mi_ayako?lang=en)|
 
 ## Cool Links
 | Title | URL |

@@ -63,12 +63,12 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 |Danielle Robinson|[Dat Project](https://datproject.org/)|[Twitter](https://twitter.com/daniellecrobins) / [Github](https://github.com/daniellecrobinson) / [DEP](https://www.dataengineeringpodcast.com/dat-with-danielle-robinson-and-joe-hand-episode-16/)|
 
 ## Cool Lists
-| Title | URL |
-| ----- | ----- |
-| Cypherpunk | https://github.com/tombusby/cypherpunk-research |
-| Rootstack Scaling Research | https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit# |
-| OnchainFX is Better Than CoinMarketCap | https://onchainfx.com/ |
-| Creator of Dogecoin's new project | https://arewedecentralizedyet.com/ |
+| List |
+| ----- |
+| [Cypherpunk](https://github.com/tombusby/cypherpunk-research) |
+| [Rootstack Scaling Research](https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit#) |
+| [OnchainFX is Better Than CoinMarketCap](https://onchainfx.com/)|
+| [Creator of Dogecoin's Are We Decentralized Yet?](https://arewedecentralizedyet.com/) |
 
 
 

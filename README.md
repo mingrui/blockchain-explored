@@ -58,9 +58,9 @@ Join captain [mingrui](https://github.com/mingrui) and [yurenji](https://github.
 |Jackson Palmer|	Dogecoin	|1|
 |Peter Ullrich|	Explain Blockchain	|1|
 |Daniel Van Flymen|	http://www.dvf.nyc/	|1|
-|Aya Miyaguchi|Head of Ethereum Foundation 2018|[Unchained](http://unchained.forbes.libsynpro.com/aya-miyaguchi-of-the-ethereum-foundation-on-who-makes-the-final-call-ep59) [Twitter](https://twitter.com/mi_ayako?lang=en)|
+|Aya Miyaguchi|Head of Ethereum Foundation 2018|[Unchained](http://unchained.forbes.libsynpro.com/aya-miyaguchi-of-the-ethereum-foundation-on-who-makes-the-final-call-ep59) / [Twitter](https://twitter.com/mi_ayako?lang=en)|
 |Roger Chen|ComputableLabs, Berkley PhD, Data|[Twitter](https://twitter.com/rgrchen) / [DEP](https://www.dataengineeringpodcast.com/data-economy-with-roger-chen-episode-21/)|
-|Danielle Robinson|[Dat Project](https://datproject.org/)|[Twitter](https://twitter.com/daniellecrobins) / [Github](https://github.com/daniellecrobinson)|
+|Danielle Robinson|[Dat Project](https://datproject.org/)|[Twitter](https://twitter.com/daniellecrobins) / [Github](https://github.com/daniellecrobinson) / [DEP](https://www.dataengineeringpodcast.com/dat-with-danielle-robinson-and-joe-hand-episode-16/)|
 
 ## Cool Lists
 | Title | URL |

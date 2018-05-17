@@ -27,7 +27,7 @@ Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/y
 
 ## People
 
-| Name        | Known for           | Links |
+| Name        | About           | Links |
 | ------------- |:-------------| -----:|
 |Adam B. Levine|	Let’s Talk Bitcoin Podcast	|1|
 |Laura Shin|	Unchained Podcast	|1|

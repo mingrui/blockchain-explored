@@ -21,7 +21,9 @@ Join captain [mingrui](https://github.com/mingrui) and [yurenji](https://github.
 ## Projects
 |Name| About | Link |
 |-|-|-|
-|dat| Distributed data system | https://datproject.org/ |
+|Dat Project| Distributed data system | https://datproject.org/ |
+|Beaker| Browser | https://beakerbrowser.com/ |
+|App.co| Dapp Store | https://app.co/ |
 
 ## People
 
@@ -60,7 +62,7 @@ Join captain [mingrui](https://github.com/mingrui) and [yurenji](https://github.
 |Roger Chen|ComputableLabs, Berkley PhD, Data|[Twitter](https://twitter.com/rgrchen) / [DEP](https://www.dataengineeringpodcast.com/data-economy-with-roger-chen-episode-21/)|
 |Danielle Robinson|[Dat Project](https://datproject.org/)|[Twitter](https://twitter.com/daniellecrobins) / [Github](https://github.com/daniellecrobinson)|
 
-## Cool Links
+## Cool Lists
 | Title | URL |
 | ----- | ----- |
 | Cypherpunk | https://github.com/tombusby/cypherpunk-research |

@@ -18,6 +18,7 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 |[Bitcoin Scaling Paper](https://drive.google.com/file/d/1mXGpWiSuEwJmbBVVYzPGHfujdkAAClz_/view)| Sets the tone for scaling debate |
 |[Algorand](https://arxiv.org/pdf/1607.01341.pdf)| Very interesting random PoW process |
 |[Paxos Made Simple](https://drive.google.com/open?id=1Od4k8wMCllPl3v_JGcuDIcYZSGuP5Dve)||
+|[Raft](https://raft.github.io/)|
 
 ## Projects
 |Name| About | Link |

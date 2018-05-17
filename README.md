@@ -72,6 +72,7 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 | [Are We Decentralized Yet?](https://arewedecentralizedyet.com/) | From Creator of DogeCoin |
 | [Open Source Teams in China](https://github.com/niezhiyang/open_source_team)| |
 | [Indie Hackers in China](https://github.com/1c7/chinese-independent-developer)| |
+| [区块链学习](https://github.com/chaozh/awesome-blockchain-cn) ||
 
 
 # 中文

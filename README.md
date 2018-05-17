@@ -62,7 +62,7 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 |Roger Chen|ComputableLabs, Berkley PhD, Data|[Twitter](https://twitter.com/rgrchen) / [DEP](https://www.dataengineeringpodcast.com/data-economy-with-roger-chen-episode-21/)|
 |Danielle Robinson|[Dat Project](https://datproject.org/)|[Twitter](https://twitter.com/daniellecrobins) / [Github](https://github.com/daniellecrobinson) / [DEP](https://www.dataengineeringpodcast.com/dat-with-danielle-robinson-and-joe-hand-episode-16/)|
 
-## Cool Lists
+## Cool Links
 | List |
 | ----- |
 | [Indie Hackers](https://www.indiehackers.com/) |

@@ -65,6 +65,7 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 ## Cool Lists
 | List |
 | ----- |
+| [Indie Hackers](https://www.indiehackers.com/) |
 | [Cypherpunk](https://github.com/tombusby/cypherpunk-research) |
 | [Rootstack Scaling Research](https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit#) |
 | [OnchainFX is Better Than CoinMarketCap](https://onchainfx.com/)|

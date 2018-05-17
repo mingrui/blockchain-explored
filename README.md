@@ -47,7 +47,7 @@ Join captain [mingrui](https://github.com/mingrui) and [yurenji](https://github.
 |Jarrad Hope|	Status.im	|1|
 |Anthony Diiorio|	Jaxx, Ethereum first investor	|1|
 |Jon| 	ShapeShift	|1|
-|Bruno Skvorc|	https://twitter.com/bitfalls?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor	|1|
+|Bruno Skvorc| Coin Vendor	|[Twitter](https://twitter.com/bitfalls)|
 |Valentin Mihov|	Sentiment (Crypto Bloomberg)	|1|
 |Dan Finlay|	Metamask	|1|
 |Karl Floersh|	Ethereum Researcher Casper	|2|

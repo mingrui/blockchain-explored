@@ -1,5 +1,5 @@
-# Blockchain List
-Captain [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yurenji) takes you on an epic exploration of blockchain and cryptocurrency
+# Blockchain Explored
+Captain [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yurenji) takes you on an epic journey of blockchain and cryptocurrency
 
 ## Current Hot Topics
 ### Bitcoin Lightning Network Debate

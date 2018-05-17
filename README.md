@@ -19,6 +19,7 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 |[Algorand](https://arxiv.org/pdf/1607.01341.pdf)| Very interesting random PoW process |
 |[Paxos Made Simple](https://drive.google.com/open?id=1Od4k8wMCllPl3v_JGcuDIcYZSGuP5Dve)||
 |[Raft](https://raft.github.io/)|
+|[Building a Blockchain in Python](https://github.com/dvf/blockchain)||
 
 ## Projects
 |Name| About | Link |

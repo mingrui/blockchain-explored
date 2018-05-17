@@ -69,7 +69,7 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 | [Rootstack Scaling Research](https://docs.google.com/document/d/1J8hehbnZWzcIUMQcxMiGbjz86wDu3zDFF7UtkR0XjGE/edit#) |
 | [OnchainFX is Better Than CoinMarketCap](https://onchainfx.com/)|
 | [Creator of Dogecoin's Are We Decentralized Yet?](https://arewedecentralizedyet.com/) |
-
+|[Opensource in China](https://github.com/niezhiyang/open_source_team)||
 
 
 # 中文

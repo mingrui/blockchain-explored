@@ -1,7 +1,5 @@
 # Blockchain List
-Everything we know about blockchain and cryptocurrency, a deep dive
-
-Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yurenji)
+Captain [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yurenji) takes you on an epic exploration of blockchain and cryptocurrency
 
 ## Current Hot Topics
 ### Bitcoin Lightning Network Debate

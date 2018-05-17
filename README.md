@@ -72,16 +72,16 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 
 
 
-# Chinese resources 
+# 中文
 
-## People
+## 人物
 
-| Name        | Known for           | Comment  |
+| 名字        | 关于           | 笔记  |
 | ------------- |:-------------| ----------------: |
 |[maxdeath](https://www.zhihu.com/people/maxdeath)|	[比特币系列文章](https://zhuanlan.zhihu.com/p/27433645)	|TU Delft |
 |[江宏](https://www.zhihu.com/people/lazyseq)|	[分布式共识与去中心化](https://zhuanlan.zhihu.com/p/34290848)	|Yale CS PHD, 分布式系统专业, 对区块链提出理性质疑| 
 
-## Scaling 
+## 区块链3.0
 
 
 | 项目        | 简介          | 作者  |  资料 |

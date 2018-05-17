@@ -1,5 +1,5 @@
 # Blockchain Explored
-Join captain [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yurenji) on an epic journey of blockchain and cryptocurrency!
+Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yurenji) on an epic journey of blockchain and cryptocurrency!
 
 ## Current Hot Topics
 ### Bitcoin Lightning Network Debate

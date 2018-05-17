@@ -1,5 +1,5 @@
 # Blockchain List
-Everything we know about blockchain and cryptocurrency
+Everything we know about blockchain and cryptocurrency, a deep dive
 
 Made by [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yurenji)
 

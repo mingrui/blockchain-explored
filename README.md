@@ -27,6 +27,7 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 |Dat Project| Distributed data system | https://datproject.org/ |
 |Beaker| Browser | https://beakerbrowser.com/ |
 |App.co| Dapp Store | https://app.co/ |
+|Matrix|decentralized communication|https://matrix.org/|
 
 ## People
 

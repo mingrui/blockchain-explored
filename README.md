@@ -78,7 +78,7 @@ Join [mingrui](https://github.com/mingrui) and [yurenji](https://github.com/yure
 | [Indie Hackers in China](https://github.com/1c7/chinese-independent-developer)| |
 | [区块链学习](https://github.com/chaozh/awesome-blockchain-cn) ||
 | [HelloGitHub](https://hellogithub.com/)||
-
+|[Decentralized Web Primer Book](https://flyingzumwalt.gitbooks.io/decentralized-web-primer/content/)||
 
 # 中文
 
